@@ -1,0 +1,16 @@
+{
+  "name": "librarymanagementsystem",
+  "version": "1.0.0",
+  "description": "This project is a Library Management System that allows for efficient management of a library's operations. It provides functionalities to track books, customers, employees, book issuance, and returns. The system, done using SQL, maintains a comprehensive database of books, their availability status, rental cost, and other relevant details. It also enables effective management of customers and employees associated with the library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.12.0"
+  }
+}
