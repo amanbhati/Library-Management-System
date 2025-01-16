@@ -84,9 +84,8 @@ Follow these steps to get the project up and running:
 
 ---
 
-## Screenshots
-(https://github.com/amanbhati/Library-Management-Sysytem/blob/main/Screenshot%202025-01-16%20224537.png).
-
+## **Screenshots**
+![**Home Page**](https://github.com/amanbhati/Library-Management-Sysytem/blob/main/Screenshot%202025-01-16%20224537.png)
 ---
 
 ## Future Enhancements
